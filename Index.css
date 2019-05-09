@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
 .button{
-     background-color: lightblue; /* Green */
+     background-color: lightblue;
   border: none;
-  color: white;
+  color: black;
   padding: 20px;
   text-align: center;
   text-decoration: none;
@@ -13,19 +14,12 @@
     border-radius: 25px;
     opacity: 0.6;
     width: 300px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 1.2em;
 }
-.button a{
-    text-decoration: none;
-    color: gray;
-}
-button a:active{
-    color: gray;
-}
-button:hover{
+.button:hover{
     background-color: aqua;
-    transition: 0.2s ease-in-out;
-}
-button a:hover{
+    transition: 0.2s ease;
     color: deeppink;
 }
 .nav{
@@ -36,13 +30,20 @@ button a:hover{
 }
 body{
     background-image: url("PICS/clientbackground.PNG");
-    font-family: 'Great Vibes', cursive;
-    font-size: 2em;
+    font-size: 1.3em;
+    font-family: 'Josefin Slab', serif;
 }
 .row1{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    background-color: white;
-    width: 50%;
+     margin: auto;
+  width: 50%;
+  background-color: white;
+  padding: 10px;
+    opacity: 0.8;
+}
+.row2{
+     margin: auto;
+  width: 50%;
+  background-color: white;
+  padding: 10px;
+    opacity: 0.8;
 }
