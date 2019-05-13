@@ -15,34 +15,42 @@ $a = "<html>
         <div class='row1'>
         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
+        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         </div>
         <div class='row2'>
         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
+        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         </div>
         <div class='row3'>
         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
+        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         </div>
         <div class='row4'>
         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
+        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         </div>
         <div class='row5'>
         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
+        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         </div>
         <div class='row6'>
         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
+        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         </div>
         <div class='row7'>
         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
+        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         </div>
         <div class='row8'>
         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
+        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='230'>
           </div>
               
               <div class='slideshow-container'>
@@ -50,19 +58,19 @@ $a = "<html>
 <div class='mySlides fade'>
   <div class='numbertext'>1 / 3</div>
   <img src='PICS/slideshow1.jpg' style='width:100%' height='400'>
-  <div class='text'>Caption Text</div>
+  <div class='text'>Day in the woods</div>
 </div>
 
 <div class='mySlides fade'>
   <div class='numbertext'>2 / 3</div>
   <img src='PICS/slideshow2.jpg' style='width:100%' height='400'>
-  <div class='text'>Caption Two</div>
+  <div class='text'>Ocean view</div>
 </div>
 
 <div class='mySlides fade'>
   <div class='numbertext'>3 / 3</div>
   <img src='PICS/slideshow3.jpg' style='width:100%' height='400'>
-  <div class='text'>Caption Three</div>
+  <div class='text'>Beautiful Bridge</div>
 </div>
 
 <a class='prev' onclick='plusSlides(-1)'>&#10094;</a>
