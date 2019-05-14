@@ -22,6 +22,10 @@
     transition: 0.2s ease;
     color: deeppink;
 }
+.button:active{
+    background-color: aqua;
+    color: deeppink;
+}
 .nav{
     display: flex;
     align-content: space-between;
@@ -40,7 +44,7 @@ body{
      margin: auto;
   width:  70%;
   background-color: white;
-    opacity: 0.8;
+   
     padding: 10px;
 }
 .row2{
@@ -49,7 +53,7 @@ body{
      margin: auto;
   width:  70%;
   background-color: white;
-    opacity: 0.8;
+    
     padding: 10px;
 }
 .row3{
@@ -58,7 +62,7 @@ body{
      margin: auto;
   width:  70%;
   background-color: white;
-    opacity: 0.8;
+    
     padding: 10px;
 }
 .row4{
@@ -67,7 +71,7 @@ body{
      margin: auto;
   width:  70%;
   background-color: white;
-    opacity: 0.8;
+    
     padding: 10px;
 }
 .row5{
@@ -76,7 +80,7 @@ body{
      margin: auto;
   width:  70%;
   background-color: white;
-    opacity: 0.8;
+    
     padding: 10px;
 }
 .row6{
@@ -85,7 +89,7 @@ body{
      margin: auto;
   width:  70%;
   background-color: white;
-    opacity: 0.8;
+    
     padding: 10px;
 }
 .row7{
@@ -94,7 +98,7 @@ body{
      margin: auto;
   width: 70%;
   background-color: white;
-    opacity: 0.8;
+    
     padding: 10px;
 }
 .row8{
@@ -103,7 +107,7 @@ body{
      margin: auto;
   width: 70%;
   background-color: white;
-    opacity: 0.8;
+    
     padding: 10px;
 }
 .mySlides {display: none}

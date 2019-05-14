@@ -12,53 +12,30 @@ $a = "<html>
             <a href='Index3.php' class='button'><em>Collage</em></a>
             <a href='Index4.php' class='button'><em>Contact</em></a>
         </div>
-        <h1>Heading</h1>
-         <div class='row1'>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
-        <p style='padding:15px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
+        <h1>Baby Photos</h1>
+         <div class='row1' style='text-align:center;'>
+        <img src='PICS/a.jpg' alt='1' style='width:100%' height='1000'>
         </div>
-        <h1>Heading</h1>
-        <div class='row2'>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
-         <p style='padding:15px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
-         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
+        <div class='row2' style='text-align:center;'>
+        <img src='PICS/b.jpg' alt='1' style='width:100%' height='1000'>
          </div>
-         <h1>Heading</h1>
-         <div class='row3'>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
-         <p style='padding:15px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
-         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
+         <div class='row3' style='text-align:center;'>
+        <img src='PICS/c.jpg' alt='1' style='width:100%' height='1000'>
          </div>
-         <h1>Heading</h1>
-         <div class='row4'>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
-         <p style='padding:15px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
-         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
+         <div class='row4' style='text-align:center;'>
+        <img src='PICS/d.jpg' alt='1' style='width:100%' height='1000'>
          </div>
-         <h1>Heading</h1>
-         <div class='row5'>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
-         <p style='padding:15px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
-         <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
+         <div class='row5' style='text-align:center;'>
+        <img src='PICS/e.jpg' alt='1' style='width:100%' height='1000'>
         </div>
-        <h1>Heading</h1>
-        <div class='row6'>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
-        <p style='padding:15px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
+        <div class='row6' style='text-align:center;'>
+        <img src='PICS/f.jpg' alt='1' style='width:100%' height='1000'>
         </div>
-        <h1>Heading</h1>
-        <div class='row7'>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
-        <p style='padding:15px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
+        <div class='row7' style='text-align:center;'>
+        <img src='PICS/g.jpg' alt='1' style='width:100%' height='1000'>
         </div>
-        <h1>Heading</h1>
-        <div class='row8'>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
-        <p style='padding:15px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
-        <img src='PICS/placeholder2.jpg' alt='placeholder' height='233' width='233'>
+        <div class='row8' style='text-align:center;'>
+        <img src='PICS/h.jpg' alt='1' style='width:100%' height='1000'>
         </div>
         
         <div class='slideshow-container'>
