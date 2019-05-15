@@ -11,90 +11,86 @@ $a = "<html>
             <a href='Index2.php' class='button'><em>About</em></a>
             <a href='Index3.php' class='button'><em>Collage</em></a>
             <a href='Index4.php' class='button'><em>Contact</em></a>
+            <a href='Index5.php' class='button'><em>Pricing</em></a>
         </div>
-        <h1>Baby Photos</h1>
-         <div class='row1' style='text-align:center;'>
-        <img src='PICS/a.jpg' alt='1' style='width:100%' height='1000'>
-        </div>
-        <div class='row2' style='text-align:center;'>
-        <img src='PICS/b.jpg' alt='1' style='width:100%' height='1000'>
-         </div>
-         <div class='row3' style='text-align:center;'>
-        <img src='PICS/c.jpg' alt='1' style='width:100%' height='1000'>
-         </div>
-         <div class='row4' style='text-align:center;'>
-        <img src='PICS/d.jpg' alt='1' style='width:100%' height='1000'>
-         </div>
-         <div class='row5' style='text-align:center;'>
-        <img src='PICS/e.jpg' alt='1' style='width:100%' height='1000'>
-        </div>
-        <div class='row6' style='text-align:center;'>
-        <img src='PICS/f.jpg' alt='1' style='width:100%' height='1000'>
-        </div>
-        <div class='row7' style='text-align:center;'>
-        <img src='PICS/g.jpg' alt='1' style='width:100%' height='1000'>
-        </div>
-        <div class='row8' style='text-align:center;'>
-        <img src='PICS/h.jpg' alt='1' style='width:100%' height='1000'>
-        </div>
-        
-        <div class='slideshow-container'>
-
-<div class='mySlides fade' style='text-align:center'>
-  <div class='numbertext'>1 / 3</div>
-  <img src='PICS/babypic7.jpg' style='width:50%' height='400'>
-  <div class='text'></div>
-</div>
-
-<div class='mySlides fade' style='text-align:center'>
-  <div class='numbertext'>2 / 3</div>
-  <img src='PICS/babypic8.jpg' style='width:50%' height='400'>
-  <div class='text'></div>
-</div>
-
-<div class='mySlides fade' style='text-align:center'>
-  <div class='numbertext'>3 / 3</div>
-  <img src='PICS/babypic9.jpg' style='width:50%' height='400'>
-  <div class='text'></div>
-</div>
-
-<a class='prev' onclick='plusSlides(-1)'>&#10094;</a>
-<a class='next' onclick='plusSlides(1)'>&#10095;</a>
-
-</div>
-<div style='text-align:center'>
-  <span class='dot' onclick='currentSlide(1)'></span> 
-  <span class='dot' onclick='currentSlide(2)'></span> 
-  <span class='dot' onclick='currentSlide(3)'></span> 
-</div>
-        </div>
+        <h1>Collage</h1>
+        <div class='slider' id='main-slider'>
+	<div class='slider-wrapper'>
+		<img src='PICS/a2.jpg' alt='First' class='slide'>
+		<img src='PICS/b2.jpg' alt='Second' class='slide'>
+		<img src='PICS/c2.jpg' alt='Third' class='slide'>
+        <img src='PICS/d2.jpg' alt='fourth' class='slide'>
+        <img src='PICS/e2.jpg' alt='fifth' class='slide'>
+	</div>
+</div>	 
 <script>
-var slideIndex = 1;
-showSlides(slideIndex);
+(function() {
+	
+	function Slideshow( element ) {
+		this.el = document.querySelector( element );
+		this.init();
+	}
+	
+	Slideshow.prototype = {
+		init: function() {
+			this.wrapper = this.el.querySelector( '.slider-wrapper' );
+			this.slides = this.el.querySelectorAll( '.slide' );
+			this.previous = this.el.querySelector( '.slider-previous' );
+			this.next = this.el.querySelector( '.slider-next' );
+			this.index = 0;
+			this.total = this.slides.length;
+			this.timer = null;
+			
+			this.action();
+			this.stopStart();	
+		},
+		_slideTo: function( slide ) {
+			var currentSlide = this.slides[slide];
+			currentSlide.style.opacity = 1;
+			
+			for( var i = 0; i < this.slides.length; i++ ) {
+				var slide = this.slides[i];
+				if( slide !== currentSlide ) {
+					slide.style.opacity = 0;
+				}
+			}
+		},
+		action: function() {
+			var self = this;
+			self.timer = setInterval(function() {
+				self.index++;
+				if( self.index == self.slides.length ) {
+					self.index = 0;
+				}
+				self._slideTo( self.index );
+				
+			}, 3000);
+		},
+		stopStart: function() {
+			var self = this;
+			self.el.addEventListener( 'mouseover', function() {
+				clearInterval( self.timer );
+				self.timer = null;
+				
+			}, false);
+			self.el.addEventListener( 'mouseout', function() {
+				self.action();
+				
+			}, false);
+		}
+		
+		
+	};
+	
+	document.addEventListener( 'DOMContentLoaded', function() {
+		
+		var slider = new Slideshow( '#main-slider' );
+		
+	});
+	
+	
+})();
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName('mySlides');
-  var dots = document.getElementsByClassName('dot');
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = 'none';  
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(' active', '');
-  }
-  slides[slideIndex-1].style.display = 'block';  
-  dots[slideIndex-1].className += ' active';
-}
 </script>
     </body>
 </html>";
