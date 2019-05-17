@@ -8,25 +8,26 @@ $a = "<html>
     <body>
         <div class='nav'>
             <a href='Index.php' class='button'><em>Home</em></a>
-            <a href='Index2.php' class='button'><em>About</em></a>
-            <a href='Index3.php' class='button'><em>Collage</em></a>
-            <a href='Index4.php' class='button'><em>Contact</em></a>
-            <a href='Index5.php' class='button'><em>Pricing</em></a>
+            <a href='about.php' class='button'><em>About</em></a>
+            <a href='collage.php' class='button'><em>Collage</em></a>
+            <a href='contact.php' class='button'><em>Contact</em></a>
+            <a href='pricing.php' class='button'><em>Pricing</em></a>
         </div>
-        <h1>Home</h1>
+        <h1>Blessed Beginnings Birth Photography</h1>
         <div class='row1'>
-        <p style='padding:15px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Dui ut ornare lectus sit. Libero id faucibus nisl tincidunt eget nullam non. Interdum varius sit amet mattis vulputate enim nulla. Eu ultrices vitae auctor eu augue ut lectus. Tellus orci ac auctor augue mauris. Tortor condimentum lacinia quis vel eros donec ac odio tempor. Arcu risus quis varius quam. Egestas pretium aenean pharetra magna. Gravida cum sociis natoque penatibus et magnis dis parturient. Sed vulputate odio ut enim blandit volutpat maecenas volutpat.</p>
+        <p style='padding:15px;'>Hi, my name is Lynette Pearson! I am a baby photographer and a doula(A birth companion). On my website you will be able to set up an appointment and see my work. Hope you enjoy!</p>
         </div>
         <div class='slider' id='main-slider'>
 	<div class='slider-wrapper'>
-		<img src='PICS/a.jpg' alt='First' class='slide' />
-		<img src='PICS/b.jpg' alt='Second' class='slide' />
-		<img src='PICS/c.jpg' alt='Third' class='slide' />
-        <img src='PICS/d.jpg' alt='fourth' class='slide' />
-        <img src='PICS/e.jpg' alt='fifth' class='slide' />
-        <img src='PICS/f.jpg' alt='fifth' class='slide' />
-        <img src='PICS/g.jpg' alt='fifth' class='slide' />
-        <img src='PICS/h.jpg' alt='fifth' class='slide' />
+		<img src='PICS/baby1.jpg' alt='First' class='slide' />
+		<img src='PICS/baby2.jpg' alt='Second' class='slide' />
+		<img src='PICS/fam1.jpg' alt='Third' class='slide' />
+        <img src='PICS/fam2.jpg' alt='fourth' class='slide' />
+        <img src='PICS/peg1.jpg' alt='fifth' class='slide' />
+        <img src='PICS/fam4.jpg' alt='Second' class='slide' />
+		<img src='PICS/fam5.jpg' alt='Third' class='slide' />
+        <img src='PICS/fam6.jpg' alt='fourth' class='slide' />
+        <img src='PICS/fam7.jpg' alt='fifth' class='slide' />
 	</div>
 </div>	 
         

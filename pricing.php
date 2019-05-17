@@ -6,11 +6,11 @@
     </head>
     <body>
         <div class='nav'>
-            <a href='Index.php' class='button'><em>Home</em></a>
-            <a href='Index2.php' class='button'><em>About</em></a>
-            <a href='Index3.php' class='button'><em>Collage</em></a>
-            <a href='Index4.php' class='button'><em>Contact</em></a>
-            <a href='Index5.php' class='button'><em>Pricing</em></a>
+           <a href='Index.php' class='button'><em>Home</em></a>
+            <a href='about.php' class='button'><em>About</em></a>
+            <a href='collage.php' class='button'><em>Collage</em></a>
+            <a href='contact.php' class='button'><em>Contact</em></a>
+            <a href='pricing.php' class='button'><em>Pricing</em></a>
             </div>
     <h1>Pricing Options</h1>
     <h2>Family Package: $100</h2>
@@ -31,14 +31,13 @@ function clean_text($string){
     return $string;
 }
 
-    echo "passed 1";
 if(isset($_POST["submit"])){
-    echo "passed 2";
+    
     if(empty($_POST["firstname"])){
         $error .= '<p><label class="text-danger">Please enter your name</label></p>';
     }
     else{
-        echo "passed 3";
+        
         $name = clean_text($_POST["firstname"]);
         if(!preg_match("/^[a-zA-Z]*$/",$name)){
             $error = '<p><label class="text-danger">Only letters and white space allowed</label></p>';
@@ -48,7 +47,7 @@ if(isset($_POST["submit"])){
         $error .= '<p><label class="text-danger">Please enter your last name</label></p>';
     }
     else{
-        echo "passed 4";
+        
         $lastname = clean_text($_POST["lastname"]);
         if(!preg_match("/^[a-zA-Z]*$/",$lastname)){
             $error = '<p><label class="text-danger">Only letters and white space allowed</label></p>';
@@ -64,7 +63,7 @@ if(isset($_POST["submit"])){
         $error .= '<p><label class="text-danger">Please choose an item</label></p>';
         
     }else{
-        echo "passed 5";
+        
         $list = clean_text($_POST["myList"]);   
     }
     if($error == ''){
@@ -91,6 +90,7 @@ function toReset(){
         }
         toReset();
     }
+    header("Location: pricing.php");
 }
 
 ?>
